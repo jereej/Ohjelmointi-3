@@ -1,5 +1,4 @@
 **Information**
 
-*Lisäominaisuudet/additional features*
-- Feature 7: User can ask danger messages with different search parameters
-- Feature 9: Danger messages can be queried in a specific area
+*Programming 3 university course coursework*\
+Note: SQL statements should have been created with PreparedStatement since it's more secure.
